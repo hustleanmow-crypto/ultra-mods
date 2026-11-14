@@ -1,0 +1,9 @@
+{
+  "name": "Stick Bokoblin Summoner",
+  "version": "0.1.0",
+  "trigger": "Stick swing",
+  "spawn": "Enemy_Bokoblin_Junior",
+  "count": 1,
+  "spawn_relative_to": "Link/front",
+  "target_game_version": "1.4.3"
+}
