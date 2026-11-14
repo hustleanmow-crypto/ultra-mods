@@ -1,0 +1,14 @@
+{
+  "game": {
+    "title_id": "0100F2C0115B6000",
+    "version": "1.4.3",
+    "build_id": "277178B7DBA1B6D4"
+  },
+  "prototype": {
+    "weapon_display_name": "Stick",
+    "enemy_display_name": "Bokoblin",
+    "spawn_count": 1,
+    "spawn_position": "front_of_link",
+    "trigger": "weapon_swing"
+  }
+}
